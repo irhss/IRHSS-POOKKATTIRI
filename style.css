@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+}
+
+header {
+    background: #0d3b66;
+    color: white;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+nav {
+    background: #144a7c;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background: linear-gradient(to right, #0d3b66, #1e6091);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+section {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.light {
+    background: #f4f4f4;
+}
+
+h2 {
+    color: #0d3b66;
+}
+
+footer {
+    background: #0d3b66;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
